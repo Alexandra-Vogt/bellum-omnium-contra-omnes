@@ -1,6 +1,6 @@
 # bellum-omnium-contra-omnes
 
-A Quil sketch designed to ... well, that part is up to you.
+This is a basic war game for the web where the player battles enemies in space.
 
 ## Usage
 
