@@ -9,7 +9,8 @@
   (:require [quil.core :as q :include-macros true]
             [input.core :as input]))
 
-(defn update-state [state]
-  ; Update sketch state by changing circle color and position.
+(defn update-state
+  "The update state."
+  [state]
   {:color (mod (+ (:color state) 0.7) 255)
    :angle (+ (:angle state) 0.1)})

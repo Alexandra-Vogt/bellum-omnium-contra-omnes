@@ -1,6 +1,10 @@
-# bellum-omnium-contra-omnes
+# bellum automata contra omnes
 
-This is a basic war game for the web where the player battles enemies in space.
+This project is on hold for another project.
+
+This is a basic war game for the web where the player battles enemies in space. They are chased about by endless waves of enemies through a procedurally generated star-field with limited fuel and ammo. The goal is not to win but rather to survive for as long as is possible.
+
+I decided that the initial name, *bellum omnium contra omnes*, would probably be better for a multi player game using webrtc and have decided to name the game *bellum automata contra omnes* which is probably more fitting.
 
 ## Usage
 
